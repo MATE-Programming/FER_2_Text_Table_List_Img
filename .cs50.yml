@@ -6,4 +6,4 @@ lab50:
 
   files:
     - !include instruction.txt
-    - !exclude index.html
+  
