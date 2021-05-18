@@ -7,4 +7,5 @@ lab50:
 
   files:
     - !include instruction.txt
+    - !include scratch.html
   
